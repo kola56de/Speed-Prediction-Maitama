@@ -1,1 +1,2 @@
 Hello
+/assets/dashboard.png

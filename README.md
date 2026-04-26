@@ -1,2 +1,3 @@
 Hello
-/assets/dashboard.png
+### 🏠 Dashboard
+![Dashboard](assets/dashboard.png)

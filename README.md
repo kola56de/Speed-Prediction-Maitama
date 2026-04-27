@@ -136,3 +136,38 @@ Speed-prediction/
 │── ki.py
 │── requirements.txt
 │── README.md
+
+## ⚙️ Installation Guide
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/yourusername/Speed-prediction.git
+cd Speed-prediction
+
+### 2️⃣ Install Requirements
+pip install -r requirements.txt
+
+### 3️⃣ Run App
+streamlit run ki.py
+## 📌 Future Improvements
+
+- Real-time traffic API integration  
+- Google Maps route tracking  
+- Congestion forecasting  
+- Accident hotspot detection  
+- Dashboard upgrade with Power BI  
+- Smart city traffic monitoring  
+
+---
+
+## 👨‍💻 Author
+
+**Kolade Olonisakin**  
+Data Scientist | AI Engineer | GIS Enthusiast  
+
+---
+
+## ⭐ Support
+
+If you like this project, kindly give it a **star ⭐** on GitHub.

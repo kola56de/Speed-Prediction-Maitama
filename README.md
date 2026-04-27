@@ -1,60 +1,114 @@
-# 🚍 Speed Prediction – Maitama District Route Analysis
+# 🚍 Speed Prediction - Maitama District Route Analysis & ML App
 
-A machine learning-powered **Streamlit web application** for analyzing road routes in **Maitama District, Abuja**, visualizing traffic data, predicting average vehicle speed, and exporting reports in PDF format.
+A machine learning-powered **Streamlit web application** for analyzing road routes in **Maitama District, Abuja**, visualizing transport data, predicting average vehicle speed, and exporting reports as PDF.
 
-This project combines **Data Analysis**, **Machine Learning**, **Visualization**, and **Report Generation** into one interactive dashboard.
+This project combines **Data Analysis**, **Visualization**, **Machine Learning**, and **Report Automation** into one smart traffic analytics solution.
 
 ---
 
 ## 📌 Project Overview
 
-Urban mobility and traffic flow are important for city planning and transportation efficiency. This project uses historical route data such as:
+This application helps analyze selected routes in Maitama District using route distance and travel time data.
 
-- Route Length (km)
-- Travel Time (seconds)
+Users can:
 
-To predict:
+✅ Explore transport datasets  
+✅ Visualize route performance  
+✅ Generate correlation heatmaps  
+✅ Predict average speed using Machine Learning  
+✅ View recent predictions  
+✅ Export full reports as PDF
 
+---
+
+## 🚀 Live Features
+
+### 📋 Dataset Display
+View available routes with:
+
+- Route Name
+- Length (km)
+- Travel Time (sec)
 - Average Speed (km/h)
 
-The application also provides charts, heatmaps, route insights, and downloadable PDF reports.
+### 📊 Data Visualization
 
----
+Interactive charts include:
 
-## 🚀 Features
+- Scatter Plot
+- Regression Plot
+- Correlation Heatmap
 
-✅ Interactive Dashboard  
-✅ Route Dataset Display  
-✅ Scatter Plot Visualization  
-✅ Regression Plot Analysis  
-✅ Correlation Heatmap  
-✅ Machine Learning Speed Prediction  
-✅ Model Performance Metrics  
-✅ Recent Prediction History  
-✅ PDF Report Export  
-✅ Clean Streamlit Interface
+### 🤖 Machine Learning Model
 
----
+**Linear Regression**
 
-## 🧠 Machine Learning Model
+Input Features:
 
-### Model Used:
-- Linear Regression
-
-### Input Features:
 - Route Length (km)
 - Travel Time (sec)
 
-### Predicted Output:
+Predicted Output:
+
 - Average Speed (km/h)
 
-### Evaluation Metrics:
+### 📈 Model Performance Metrics
+
 - R² Score
 - Mean Absolute Error (MAE)
 
+### 🔮 Speed Prediction
+
+Users can input:
+
+- Route Length
+- Travel Time
+
+And instantly predict expected speed.
+
+### 📄 PDF Report Export
+
+Generate downloadable reports containing:
+
+- Model metrics
+- Charts
+- Prediction history
+
 ---
 
-## 🛠️ Tech Stack
+# 🖼️ Application Screenshots
+
+## 🏠 Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+![Dashboard 2](assets/dashboard1.png)
+
+![Dashboard 3](assets/dashboard2.png)
+
+---
+
+## 🗺️ Route / Map View
+
+![Map](assets/map.png)
+
+![Map 2](assets/map1.png)
+
+---
+
+## 📈 Optimization / Analytics
+
+![Optimization](assets/optimization.png)
+
+---
+
+## 🔮 Prediction Section
+
+![Prediction](assets/predict.png)
+
+---
+
+# 🛠️ Tech Stack
 
 - Python
 - Streamlit
@@ -66,7 +120,7 @@ The application also provides charts, heatmaps, route insights, and downloadable
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```bash
 Speed-prediction/
@@ -78,6 +132,7 @@ Speed-prediction/
 │   ├── map1.png
 │   ├── optimization.png
 │   └── predict.png
+│
 │── ki.py
 │── requirements.txt
 │── README.md

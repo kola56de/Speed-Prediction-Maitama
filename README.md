@@ -113,17 +113,17 @@ Generate downloadable reports containing:
 ### Dashboard View 3
 ![Dashboard](dashboard2.png)
 
-### Map Visualization
-![Map](map.png)
-
-### Map View 2
-![Map](map1.png)
-
 ### Prediction Output
 ![Prediction](predict.png)
 
 ### Optimization Result
 ![Optimization](optimization.png)
+
+### Map Visualization
+![Map](map.png)
+
+### Map View 2
+![Map](map1.png)
 
 ---
 

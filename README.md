@@ -153,3 +153,44 @@ Speed-prediction/
 │── map1.png
 │── optimization.png
 │── predict.png
+
+---
+## ⚙️ Installation Guide
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/Speed-prediction.git
+cd Speed-prediction
+---
+## Install dependencies:
+pip install -r requirements.txt
+---
+Run the app:
+streamlit run ki.py
+## 📌 Use Case Applications
+
+- Smart Traffic Monitoring  
+- Route Optimization  
+- Urban Planning  
+- Logistics Analysis  
+- Transport Decision Support  
+- GIS Traffic Analytics  
+
+---
+
+## 📈 Future Improvements
+
+- Real-time Google Maps API Integration  
+- Traffic Congestion Forecasting  
+- Accident Hotspot Detection  
+- Power BI Dashboard Version  
+- Smart City Live Monitoring  
+- Multi-route Optimization Engine  
+
+---
+
+## 👨‍💻 Author
+
+**Kolade Olonisakin**  
+Data Scientist | Machine Learning Engineer | GIS Enthusiast

@@ -153,7 +153,7 @@ pip install -r requirements.txt
 ---
 Run the app:
 streamlit run ki.py
-
+'''
 ## 📌 Use Case Applications
 
 - Smart Traffic Monitoring  

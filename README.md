@@ -162,12 +162,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Speed-prediction.git
 cd Speed-prediction
+
 ---
 ## Install dependencies:
 pip install -r requirements.txt
+
 ---
 Run the app:
 streamlit run ki.py
+
 ## 📌 Use Case Applications
 
 - Smart Traffic Monitoring  

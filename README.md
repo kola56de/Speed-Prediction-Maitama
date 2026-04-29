@@ -104,26 +104,7 @@ Generate downloadable reports containing:
 
 ## 🖼️ Project Screenshots
 
-### Dashboard
-![Dashboard](dashboard.png)
 
-### Dashboard View 2
-![Dashboard](dashboard1.png)
-
-### Dashboard View 3
-![Dashboard](dashboard2.png)
-
-### Prediction Output
-![Prediction](predict.png)
-
-### Optimization Result
-![Optimization](optimization.png)
-
-### Map Visualization
-![Map](map.png)
-
-### Map View 2
-![Map](map1.png)
 
 ---
 

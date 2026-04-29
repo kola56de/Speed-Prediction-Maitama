@@ -134,7 +134,8 @@ Speed-prediction/
 │── map1.png
 │── optimization.png
 │── predict.png
-```bash
+
+```
 ---
 ## ⚙️ Installation Guide
 

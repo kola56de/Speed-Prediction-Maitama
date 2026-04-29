@@ -112,6 +112,21 @@ Generate downloadable reports containing:
 ### 📉 Scatterplot
 ![Scatterplot](assets/Scatterplot.png)
 
+---
+### 📊 Correlection
+![Correlection](assets/Correlection.png)
+
+---
+### 🔮 Prediction
+![Prediction](assets/Prediction.png)
+
+---
+### 📊 Visualization
+![Visualization](assets/Visualization.png)
+
+
+
+
 
 ---
 

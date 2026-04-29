@@ -4,7 +4,7 @@ An interactive **Machine Learning powered Streamlit dashboard** for analyzing ro
 
 This project combines **data analytics**, **visualization**, **predictive modeling**, and **PDF report generation** into one smart traffic analysis tool.
 
-
+---
 
 ## 📌 Live App
 

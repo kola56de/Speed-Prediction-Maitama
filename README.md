@@ -104,7 +104,8 @@ Generate downloadable reports containing:
 
 ## 🖼️ Project Screenshots
 
-
+### 🏠 Dashboard
+![Dashboard](assets/Dashboard.png)
 
 ---
 

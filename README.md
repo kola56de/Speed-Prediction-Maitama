@@ -107,6 +107,10 @@ Generate downloadable reports containing:
 ### 🏠 Dashboard
 ![Dashboard](assets/Dashboard.png)
 
+### 📉 Scatterplot
+![Scatterplot](assets/Scatterplot.png)
+
+
 ---
 
 ## 🛠️ Tech Stack

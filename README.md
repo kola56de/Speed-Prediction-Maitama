@@ -113,8 +113,8 @@ Generate downloadable reports containing:
 ![Scatterplot](assets/Scatterplot.png)
 
 ---
-### 📊 Correlection
-![Correlection](assets/Correlection.png)
+### 📊 Correlation
+![Correlection](assets/Correlation.png)
 
 ---
 ### 🔮 Prediction

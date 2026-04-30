@@ -167,7 +167,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Speed-prediction.git
 cd Speed-prediction
-
+```
 ---
 ## Install dependencies:
 ```bash
